@@ -1,4 +1,4 @@
-#New Phishing-mechanism[Without NGROK and Servio]
+#New Phishing-mechanism[Without NGROK]
 
 
 This is Cloud based project.(Entire project is not included)
